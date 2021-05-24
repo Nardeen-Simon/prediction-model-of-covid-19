@@ -1,4 +1,3 @@
 # prediction-model-of-covid-19
-simple prediction-model-of-covid-19 by using rapid miner tool
-the project has two phases
-created by nardeen simon
+#Copyright © 2021 All Rights Reserved to Nardeen Simon
+#www.linkedin.com/in/nardeen-simon-219159168
